@@ -1,6 +1,6 @@
 # Family Data
 
-This dataset ([people.xlsx](people.xlsx)) contains 39 cousins from a particular family. These are the columns:
+This dataset ([people.xlsx](people.xlsx)) contains 39 cousins from a particular family. Here are the columns:
 
 - **name** - full name of the cousin;
 - **birthdate** - his birthdate (mm/dd/yy);
